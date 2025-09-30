@@ -50,6 +50,11 @@
     - title: Assistant Professor
       institution: University of Texas at Arlington
       year: 2024 - present      
+      description:
+        - Founder and director of the Perception, Robot Intelligence, and Machine Learning Laboratory (PRIMAL).
+        - Teach undergraduate and graduate courses.
+        - Conducting research in machine learning and computer vision.        
+        - Provide academic and administrative service to the CSE department, the outreach office and the university.        
     - title: Post-Doctoral Fellow
       institution: Drexel University
       year: 2023 - 2024
@@ -89,7 +94,7 @@
 - title: Teaching Experience
   type: time_table
   contents:
-    - year: Fall 2024 - Spring 2025
+    - year: Fall 2024 - Fall 2025
       items:
         - Computer Vision.
     - year: Fall 2010 - Fall 2011
@@ -117,6 +122,9 @@
 - title: Service
   type: list
   contents:
+    - <a href='https://cvpr.thecvf.com'>Reviewer for CVPR'26 - IEEE/CVF Conference on Computer Vision and Pattern Recognition. </a>
+    - <a href='https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369'>Reviewer for IEEE Robotics and Automation Letters. </a>
+    - <a href='https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42'>Reviewer for IEEE Transactions on Medical Imaging. </a>  
     - <a href='https://www.sciencedirect.com/journal/pattern-recognition'>Reviewer for the Elsevier's Pattern Recognition Journal.</a>
     - <a href='https://www.icpr2022.com'>ICPR'22 Reviewer.</a> 26th International Conference on Pattern Recognition.
     - <a href='https://conferences.miccai.org/2022/en/'>MICCAI'22 Reviewer.</a> 25th International Conference on Medical Image and Computing and Computer Assisted Intervention.
