@@ -23,8 +23,9 @@ jobs:
         bundler-cache: true
     
     - name: Update Bundler and install dependencies
-      run: |        
-        bundle exec --clean-env jekyll build
+      run: |                
+        gem install bundler
+        bundle update --bundler
 
     - name: Install deps
       run: |
