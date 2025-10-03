@@ -20,12 +20,18 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
-        bundler-cache: true
+        bundler-cache: false
     
-    - name: Update Bundler and install dependencies
-      run: |                
+    - name: Clean and install dependencies
+      run: |
+        gem update --system
+        gem uninstall bundler -aIx || true
         gem install bundler
         bundle update --bundler
+        bundle config set --local path 'vendor/bundle'
+
+    
+    
 
     - name: Install deps
       run: |
