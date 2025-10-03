@@ -23,8 +23,7 @@ jobs:
         bundler-cache: false
     
     - name: Clean and install dependencies
-      run: |
-        gem update --system
+      run: |        
         gem uninstall bundler -aIx || true
         gem install bundler
         bundle update --bundler
