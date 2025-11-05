@@ -24,4 +24,3 @@ I am an assistant professor in the Computer Science and Engineering department a
 
 I received my B.S., M.S., and Ph.D. degrees in Computer Engineering from the [National University of Colombia](https://medellin.unal.edu.co), in 2010, 2012, and 2020 respectively. I was a visiting researcher at the University of Wisconsin-Madison and later at the University of Pennsylvania.
 
-I am currently **recruiting Ph.D. students** to join my research group in geometric computer vision. This area includes topics such as 3D reconstruction, structure-from-motion, etc. If you're interested, please email me with the subject line **"future maverick"** and include your CV, academic transcripts, and a short paragraph describing your research experience. Priority will be given to applicants with a master’s degree and prior publications. Emails without the specified subject may be missed due to filtering.
